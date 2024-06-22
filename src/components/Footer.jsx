@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../images/logo.png";
-import { Colors } from "react-native/Libraries/NewAppScreen";
+
 const Footer = () => {
   return (
     <div>
