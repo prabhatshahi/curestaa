@@ -36,4 +36,4 @@ npm start
 Open your browser and visit http://localhost:3000 to view the landing page.
 
 Deployment
-The landing page is deployed https://vercel.com/prabhatshahis-projects/curestaa-assignment for easy access and viewing.
+The landing page is deployed https://curestaa-assignment.vercel.app/ for easy access and viewing.
