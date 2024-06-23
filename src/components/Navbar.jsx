@@ -161,8 +161,11 @@ const Navbar = () => {
               </h1>
               <p className="lead">the best match services for you</p>
               <p className="text text-md">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam,
-                nulla odit esse necessitatibus corporis voluptatem?
+                Welcome to your most trusted health partner, where your
+                well-being is our top priority. We understand that navigating
+                the world of health and wellness can be overwhelming, which is
+                why we are committed to providing you with personalized,
+                compassionate, and comprehensive care.
               </p>
               <div className="btn-group">
                 <span

@@ -85,7 +85,7 @@ const Footer = () => {
           </div>
 
           <div className="footer-links">
-            <li style={{ color: "red" }}>
+            <li style={{ color: "white" }}>
               © Curesta Hospitals 2023 | All Rights Reserved
             </li>
           </div>

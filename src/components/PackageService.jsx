@@ -17,9 +17,9 @@ const PackageService = () => {
               </div>
               <h3>Regular Case</h3>
               <p className="text text-sm">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequatur, asperiores. Expedita, reiciendis quos beatae at
-                consequatur voluptatibus fuga iste adipisci.
+                Our regular case services are designed to provide ongoing
+                support for your general health needs, ensuring that you stay on
+                top of your well-being.
               </p>
               <a href="#" className="btn btn-blue">
                 Read More
@@ -32,9 +32,9 @@ const PackageService = () => {
               </div>
               <h3>Serious Case</h3>
               <p className="text text-sm">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequatur, asperiores. Expedita, reiciendis quos beatae at
-                consequatur voluptatibus fuga iste adipisci.
+                . Our dedicated team of specialists and healthcare professionals
+                is committed to providing comprehensive care for patients facing
+                serious health conditions.
               </p>
               <a href="#" className="btn btn-blue">
                 Read More
@@ -47,9 +47,9 @@ const PackageService = () => {
               </div>
               <h3>Emergency Case</h3>
               <p className="text text-sm">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequatur, asperiores. Expedita, reiciendis quos beatae at
-                consequatur voluptatibus fuga iste adipisci.
+                Our emergency department is equipped with state-of-the-art
+                technology and facilities, enabling us to perform advanced
+                diagnostics and treatments quickly and efficiently.
               </p>
               <a href="#" className="btn btn-blue">
                 Read More

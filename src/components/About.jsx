@@ -13,13 +13,12 @@ const About = () => {
                 <div className="border-line"></div>
               </div>
               <p className="text text-lg">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Recusandae molestias delectus facilis, temporibus eum
-                consectetur, a debitis exercitationem quae distinctio aliquid ea
-                ipsam vitae esse amet soluta maxime dolorem? Inventore ut
-                maiores illo ipsum nisi, nulla eligendi unde reiciendis quod
-                voluptas velit sit voluptate perferendis cum pariatur molestiae
-                tenetur repellat!
+                Welcome to Curesta, where your health and wellness are our top
+                priorities. Founded on the principles of compassion, integrity,
+                and excellence, we are dedicated to providing you with the
+                highest quality healthcare services. Our mission is to empower
+                individuals to achieve their best health through personalized,
+                comprehensive care.
               </p>
               <a href="#" className="btn btn-white">
                 Learn More

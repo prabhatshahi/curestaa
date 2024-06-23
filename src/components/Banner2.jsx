@@ -15,12 +15,8 @@ const Banner2 = () => {
               single second your whole life could change.
             </p>
             <div className="btn-group">
-              <a href="#" className="btn btn-white">
-                Learn More
-              </a>
-              <a href="#" className="btn btn-light-blue">
-                Sign In
-              </a>
+              <a className="btn btn-white">Learn More</a>
+              <a className="btn btn-light-blue">Sign In</a>
             </div>
           </div>
         </div>
